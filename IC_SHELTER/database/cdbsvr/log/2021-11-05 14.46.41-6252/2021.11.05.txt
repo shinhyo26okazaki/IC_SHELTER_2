@@ -1,0 +1,178 @@
+[2021.11.05 14:46:41] [0000m.00s.023ms] [0] WELCOME
+[2021.11.05 14:46:41] [0000m.00s.024ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.11.05 14:46:41] [0000m.00s.024ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.11.05 14:46:41] [0000m.00s.025ms] [1] Base flow version [VX.2.7]
+[2021.11.05 14:46:41] [0000m.00s.025ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.11.05 14:46:41] [0000m.00s.025ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.11.05 14:46:41] [0000m.00s.037ms] [1] Machine [DESKTOP-8F94JDP]  IP [127.0.0.1,192.168.1.29]  User [Shinhyo Belliard]  PID [6252]
+[2021.11.05 14:46:41] [0000m.00s.037ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 18363)]
+[2021.11.05 14:46:41] [0000m.00s.037ms] [1] Current working dir [C:\PADS Projects\DxProjects\IC_SHELTER]
+[2021.11.05 14:46:41] [0000m.00s.037ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2017b\runtime\win64;C:\Program Files\MATLAB\R2017b\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\MinGW\bin;c:\opt\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\Shinhyo Belliard\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Shinhyo Belliard\AppData\Local\Programs\Python\Python38-32\;C:\Users\Shinhyo Belliard\AppData\Local\Microsoft\WindowsApps;C:\Users\Shinhyo Belliard\AppData\Local\Programs\Microsoft VS Code Insiders\bin]
+[2021.11.05 14:46:41] [0000m.00s.037ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.11.05 14:46:41] [0000m.00s.037ms] [1] SDD_PLATFORM [win32]
+[2021.11.05 14:46:41] [0000m.00s.037ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.11.05 14:46:41] [0000m.00s.037ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.11.05 14:46:41] [0000m.00s.037ms] [2] S: Loading config files
+[2021.11.05 14:46:41] [0000m.00s.043ms] [1] Config file [C:\PADS Projects\DxProjects\IC_SHELTER\database\cdbsvr\Server.cfg] not found
+[2021.11.05 14:46:41] [0000m.00s.044ms] [3] S: Config loaded
+[2021.11.05 14:46:41] [0000m.00s.062ms] [0] S: Project path [C:\PADS Projects\DxProjects\IC_SHELTER\database] on file system [NTFS]
+[2021.11.05 14:46:41] [0000m.00s.062ms] [0] S: Project file (.prj) path [C:\PADS Projects\DxProjects\IC_SHELTER\IC_SHELTER.prj] on file system [NTFS]
+[2021.11.05 14:46:41] [0000m.00s.062ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.11.05 14:46:41] [0000m.00s.062ms] [0] S: Single-user mode (auto)
+[2021.11.05 14:46:41] [0000m.00s.062ms] [0] S: Event polling mode autodetection
+[2021.11.05 14:46:41] [0000m.00s.063ms] [0] S: Started up automatically by iCDB Client: DESKTOP-8F94JDP:Shinhyo Belliard:5512
+[2021.11.05 14:46:41] [0000m.00s.063ms] [0] S: Auto close mode
+[2021.11.05 14:46:41] [0000m.00s.063ms] [0] S: Database ID [5c9b-175a-4162-37bc-db46-2513-c462-5160-5b55-42f0-038f-80a8]
+[2021.11.05 14:46:41] [0000m.00s.063ms] [0] PathTranslator: BEGIN dumping
+[2021.11.05 14:46:41] [0000m.00s.063ms] [0] PathTranslator: Local -> global path prefix list
+[2021.11.05 14:46:41] [0000m.00s.063ms] [0] PathTranslator: Global -> local path prefix list
+[2021.11.05 14:46:41] [0000m.00s.063ms] [0] PathTranslator: END dumping
+[2021.11.05 14:46:41] [0000m.00s.063ms] [0] S: START
+[2021.11.05 14:46:41] [0000m.00s.064ms] [0] S: Server startup lock file created
+[2021.11.05 14:46:41] [0000m.00s.064ms] [0] S: Listening for client connections on port [10002]
+[2021.11.05 14:46:41] [0000m.00s.067ms] [0] S: Server network ID [DESKTOP-8F94JDP:192.168.1.29,DESKTOP-8F94JDP:10002]
+[2021.11.05 14:46:41] [0000m.00s.067ms] [0] S: Server GUID [9d19-d6c1-d006-85fe-11c7-5817-1c75-8160-89d4-8251-008f-80a8]
+[2021.11.05 14:46:41] [0000m.00s.067ms] [0] S: Project GUID [5c9b-175a-4162-37bc-db46-2513-c462-5160-5b55-42f0-038f-80a8]
+[2021.11.05 14:46:41] [0000m.00s.069ms] [0] S: Wrote data to server address file
+[2021.11.05 14:46:41] [0000m.00s.069ms] [0] S: Server startup lock file removed
+[2021.11.05 14:46:41] [0000m.00s.069ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\PADS Projects\DxProjects\IC_SHELTER\IC_SHELTER.prj]
+[2021.11.05 14:46:42] [0000m.00s.402ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.11.05 14:46:42] [0000m.00s.402ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.11.05 14:46:42] [0000m.00s.402ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.11.05 14:46:42] [0000m.00s.403ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.11.05 14:46:42] [0000m.00s.403ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.11.05 14:46:42] [0000m.00s.403ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.11.05 14:46:42] [0000m.00s.403ms] [0] S: Local disc access time: 58 us
+[2021.11.05 14:46:42] [0000m.00s.403ms] [0] S: File server access time: 54 us
+[2021.11.05 14:46:42] [0000m.00s.406ms] [0] Single file [C:\PADS Projects\DxProjects\IC_SHELTER\database\icdb.dat] size [399640 (390.3 kB)]
+[2021.11.05 14:46:42] [0000m.00s.407ms] [1] Single file [C:\PADS Projects\DxProjects\IC_SHELTER\database\icdb.dat] opened in read-write mode
+[2021.11.05 14:46:42] [0000m.00s.407ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.05 14:46:42] [0000m.00s.407ms] [0] Database GUARD OK: [399640]
+[2021.11.05 14:46:42] [0000m.00s.408ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.05 14:46:42] [0000m.00s.408ms] [0] Database GUARD OK: [399640]
+[2021.11.05 14:46:42] [0000m.00s.408ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.05 14:46:42] [0000m.00s.408ms] [0] Database GUARD OK: [399640]
+[2021.11.05 14:46:42] [0000m.00s.408ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.05 14:46:42] [0000m.00s.408ms] [0] Database GUARD OK: [399640]
+[2021.11.05 14:46:42] [0000m.00s.408ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.05 14:46:42] [0000m.00s.408ms] [0] Database GUARD OK: [399640]
+[2021.11.05 14:46:42] [0000m.00s.408ms] [0] SingleFile: [7347-8e5e-0944-19b5] SFI version check [1009] [1009]
+[2021.11.05 14:46:42] [0000m.00s.415ms] [0] SingleFile: [7347-8e5e-0944-19b5] Database SFI header has been read in [6ms 210us]
+[2021.11.05 14:46:42] [0000m.00s.419ms] [0] iCDB Server PI: Server & plugin session [127]
+[2021.11.05 14:46:42] [0000m.00s.419ms] [0] iCDB Server PI: Opening database [C:\PADS Projects\DxProjects\IC_SHELTER\database]
+[2021.11.05 14:46:42] [0000m.00s.420ms] [0] iCDB Server PI: Database [C:\PADS Projects\DxProjects\IC_SHELTER\database] opened
+[2021.11.05 14:46:42] [0000m.00s.467ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.11.05 14:46:42] [0000m.00s.468ms] [0] iCDB Database: Checking constraint definitions version
+[2021.11.05 14:46:42] [0000m.00s.493ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.11.05 14:46:42] [0000m.00s.498ms] [0] iCDB Server PI: Initializing plugins
+[2021.11.05 14:46:42] [0000m.00s.498ms] [0] iCDB Server PI: Plugins initialized
+[2021.11.05 14:46:42] [0000m.00s.498ms] [0] S: iCDB database loaded
+[2021.11.05 14:46:42] [0000m.00s.500ms] [0] S: Starting threads
+[2021.11.05 14:46:42] [0000m.00s.500ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.11.05 14:46:42] [0000m.00s.500ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.11.05 14:46:42] [0000m.00s.502ms] [0] IT: Session [128] for host [DESKTOP-8F94JDP] user [Shinhyo Belliard] client type[0] clsvrPluginID[0] with process ID [5512] created
+[2021.11.05 14:46:42] [0000m.00s.510ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.11.05 14:46:42] [0000m.00s.512ms] [1] SC[128]: Registered sub-client [DxD] with ID [1] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:42] [0000m.00s.570ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\PADS Projects\DxProjects\IC_SHELTER\ProjectBackup\backups\2021-11-05 14.46.42 - auto.zip] with GUID [13ba-8cfb-a6f4-c840-21c7-5818-1c75-8160-c725-8251-008f-80a8]
+[2021.11.05 14:46:42] [0000m.00s.571ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[a7dd-7b63-6e86-ae79-1d30-7717-d307-7160-8423-a2cd-ff7f-80a8] CreationTime[Monday, October 25, 2021 19:21:53] Type[Autosave] Creator[iCDB Server (2021-10-25 15.21.53-3464)] ApplicationName[iCDB Server (2021-10-25 15.21.53-3464)] UserName[Shinhyo Belliard] MachineName[DESKTOP-8F94JDP] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\IC_SHELTER\ProjectBackup\backups\2021-10-25 15.21.53 - auto.zip] BackupFileSize[403041] Persistent[FALSE]
+[2021.11.05 14:46:42] [0000m.00s.571ms] [0] PrjBackupMgr: Project Backup file [C:\PADS Projects\DxProjects\IC_SHELTER\ProjectBackup\backups\2021-10-25 15.21.53 - auto.zip] with GUID [a7dd-7b63-6e86-ae79-1d30-7717-d307-7160-8423-a2cd-ff7f-80a8] removed
+[2021.11.05 14:46:42] [0000m.00s.572ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[13ba-8cfb-a6f4-c840-21c7-5818-1c75-8160-c725-8251-008f-80a8] CreationTime[Friday, November 05, 2021 18:46:42] Type[Autosave] Creator[iCDB Server (2021-11-05 14.46.41-6252)] ApplicationName[iCDB Server (2021-11-05 14.46.41-6252)] UserName[Shinhyo Belliard] MachineName[DESKTOP-8F94JDP] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\IC_SHELTER\ProjectBackup\backups\2021-11-05 14.46.42 - auto.zip] BackupFileSize[407506] Persistent[FALSE]
+[2021.11.05 14:46:42] [0000m.00s.601ms] [1] CMT: There are [1] clients now: 128
+[2021.11.05 14:46:42] [0000m.00s.682ms] [1] SC[128]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:42] [0000m.00s.700ms] [1] SC[128]: Registered sub-client [SymbolEditor] with ID [3] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:42] [0000m.00s.706ms] [1] SC[128]: Registered sub-client [SelectionHolder] with ID [4] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:42] [0000m.00s.732ms] [1] SC[128]: Registered sub-client [Core::DesignListener-459127776-0] with ID [5] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:42] [0000m.00s.736ms] [1] SC[128]: Registered sub-client [BlockCacheDxD:459127440] with ID [6] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:42] [0000m.00s.741ms] [1] SC[128]: Registered sub-client [Core::NetFlatData-18936] with ID [7] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:42] [0000m.00s.775ms] [1] SC[128]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:42] [0000m.00s.780ms] [1] SC[128]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:42] [0000m.00s.783ms] [1] SC[128]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:44] [0000m.02s.961ms] [1] SC[128]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:44] [0000m.02s.970ms] [1] SC[128]: Registered sub-client [HdlProject] with ID [11] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:44] [0000m.02s.977ms] [1] SC[128]: Registered sub-client [Navigator] with ID [12] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:44] [0000m.02s.995ms] [1] SC[128]: Registered sub-client [OutputWindow] with ID [13] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:44] [0000m.03s.000ms] [1] SC[128]: Registered sub-client [PlaceDevice] with ID [14] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:44] [0000m.03s.067ms] [1] SC[128]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:44] [0000m.03s.072ms] [1] SC[128]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.04s.734ms] [1] SC[128]: Registered sub-client [FFSSelListener] with ID [17] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.04s.740ms] [1] SC[128]: Registered sub-client [SAE] with ID [18] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.04s.761ms] [1] SC[128]: Registered sub-client [DxConstraints] with ID [19] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.04s.766ms] [1] SC[128]: Registered sub-client [CCZAddin] with ID [20] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.04s.770ms] [1] SC[128]: Registered sub-client [DxThumbnails] with ID [21] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.04s.775ms] [1] SC[128]: Registered sub-client [MyParts] with ID [22] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.04s.797ms] [1] SC[128]: Registered sub-client [PinsList] with ID [23] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.04s.907ms] [1] SC[128]: Registered sub-client [toolboxes] with ID [24] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.04s.944ms] [1] SC[128]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.04s.949ms] [1] SC[128]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:322592088] with ID [26] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.05s.004ms] [1] SC[128]: Registered sub-client [SheetConnectorsCacheDxD:1636138006] with ID [27] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.05s.162ms] [1] SC[128]: Registered sub-client [NetsNamesCollectorDxD:1636138006] with ID [28] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.05s.182ms] [1] SC[128]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.05s.186ms] [1] SC[128]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:46] [0000m.05s.199ms] [1] SC[128]: Registered sub-client [xprob] with ID [31] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:47] [0000m.05s.288ms] [1] SC[128]: Registered sub-client [StartServerClient2cf4] with ID [32] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:47] [0000m.05s.289ms] [1] SC[128]: UnRegistered sub-client [StartServerClient2cf4] with ID [32] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:50] [0000m.09s.100ms] [1] SC[128]: Registered sub-client [ObjectHolder_672626368] with ID [33] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:50] [0000m.09s.106ms] [1] SC[128]: Registered sub-client [BlockCacheDxD:675211728] with ID [34] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:50] [0000m.09s.111ms] [1] SC[128]: Registered sub-client [GlobalNetAliasUpdater_670281480] with ID [35] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:50] [0000m.09s.116ms] [1] SC[128]: Registered sub-client [IcdbNetProcessorSubClientDxD:458951096] with ID [36] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:51] [0000m.09s.683ms] [1] SC[128]: Registered sub-client [DxDbSearch] with ID [37] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:54] [0000m.13s.122ms] [1] SC[128]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:54] [0000m.13s.251ms] [1] SC[128]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.376ms] [1] SC[128]: UnRegistered sub-client [GlobalNetAliasUpdater_670281480] with ID [35] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.376ms] [1] SC[128]: UnRegistered sub-client [BlockCacheDxD:675211728] with ID [34] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.376ms] [1] SC[128]: UnRegistered sub-client [ObjectHolder_672626368] with ID [33] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.377ms] [1] SC[128]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:458951096] with ID [36] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.379ms] [1] SC[128]: UnRegistered sub-client [Navigator] with ID [12] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.381ms] [1] SC[128]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.417ms] [1] SC[128]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.504ms] [1] SC[128]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.520ms] [1] SC[128]: UnRegistered sub-client [MyParts] with ID [22] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.520ms] [1] SC[128]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.562ms] [1] SC[128]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.563ms] [1] SC[128]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.13s.563ms] [1] SC[128]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.14s.172ms] [1] SC[128]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:322592088] with ID [26] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.14s.173ms] [1] SC[128]: UnRegistered sub-client [Core::NetFlatData-18936] with ID [7] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.14s.174ms] [1] SC[128]: UnRegistered sub-client [BlockCacheDxD:459127440] with ID [6] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.14s.174ms] [1] SC[128]: UnRegistered sub-client [Core::DesignListener-459127776-0] with ID [5] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.14s.174ms] [1] SC[128]: UnRegistered sub-client [SheetConnectorsCacheDxD:1636138006] with ID [27] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.14s.175ms] [1] SC[128]: UnRegistered sub-client [NetsNamesCollectorDxD:1636138006] with ID [28] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.14s.181ms] [1] SC[128]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.14s.181ms] [1] SC[128]: UnRegistered sub-client [DxD] with ID [1] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.14s.194ms] [1] SC[128]: UnRegistered sub-client [xprob] with ID [31] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.14s.194ms] [1] SC[128]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:55] [0000m.14s.213ms] [1] SC[128]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:56] [0000m.14s.320ms] [1] SC[128]: UnRegistered sub-client [DxDbSearch] with ID [37] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:56] [0000m.14s.344ms] [1] SC[128]: UnRegistered sub-client [SAE] with ID [18] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:56] [0000m.14s.382ms] [1] SC[128]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:46:56] [0000m.14s.391ms] [1] SC[128]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:47:01] [0000m.20s.023ms] [1] SC[128]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:47:01] [0000m.20s.069ms] [1] SC[128]: UnRegistered sub-client [PinsList] with ID [23] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:47:01] [0000m.20s.132ms] [1] SC[128]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:47:01] [0000m.20s.202ms] [1] SC[128]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:47:01] [0000m.20s.213ms] [1] SC[128]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [128] host [DESKTOP-8F94JDP] user [Shinhyo Belliard] process ID [5512]
+[2021.11.05 14:47:02] [0000m.20s.279ms] [1] CMT: Removed client [128]
+[2021.11.05 14:47:02] [0000m.20s.279ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.11.05 14:47:02] [0000m.20s.904ms] [0] DFAMT: File server access time: 81 us
+[2021.11.05 14:47:04] [0000m.22s.291ms] [0] CMT: Starting server auto-close
+[2021.11.05 14:47:04] [0000m.22s.355ms] [0] S: Closing server
+[2021.11.05 14:47:04] [0000m.22s.428ms] [0] iCDB Server PI: Closing plugins
+[2021.11.05 14:47:04] [0000m.22s.428ms] [0] iCDB Server PI: Plugins closed
+[2021.11.05 14:47:04] [0000m.22s.428ms] [0] iCDB Server PI: Unloading database
+[2021.11.05 14:47:04] [0000m.22s.428ms] [0] iCDB Server PI: Saving storage
+[2021.11.05 14:47:04] [0000m.22s.428ms] [0] iCDB Server PI: Closing database
+[2021.11.05 14:47:04] [0000m.22s.428ms] [1] Hole: zero line at 399612 of size 8 bytes.
+[2021.11.05 14:47:04] [0000m.22s.429ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[98%]
+[2021.11.05 14:47:04] [0000m.22s.429ms] [1] iCDB Server PI: Stats: Database file size [399640 (390.3 kB)]
+[2021.11.05 14:47:04] [0000m.22s.430ms] [1] Hole: zero line at 399612 of size 8 bytes.
+[2021.11.05 14:47:04] [0000m.22s.435ms] [0] iCDB Server PI: Database closed
+[2021.11.05 14:47:04] [0000m.22s.435ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [67224] ticks
+[2021.11.05 14:47:04] [0000m.22s.435ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [6722] microseconds
+[2021.11.05 14:47:04] [0000m.22s.435ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [8]
+[2021.11.05 14:47:04] [0000m.22s.435ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [1190] commands per second
+[2021.11.05 14:47:04] [0000m.22s.435ms] [1] iCDB Server PI: Stats: Mem[34988032]
+[2021.11.05 14:47:04] [0000m.22s.435ms] [1] iCDB Server PI: Stats: MemPeak[48758784]
+[2021.11.05 14:47:04] [0000m.22s.436ms] [0] Single file [C:\PADS Projects\DxProjects\IC_SHELTER\database\icdb.dat] closed with size [399640 (390.3 kB)]
+[2021.11.05 14:47:04] [0000m.22s.516ms] [0] MWT: Destroy the shutdown block reason.
+[2021.11.05 14:47:04] [0000m.22s.517ms] [0] MWT: STOP
+[2021.11.05 14:47:04] [0000m.22s.517ms] [0] S: STOP
