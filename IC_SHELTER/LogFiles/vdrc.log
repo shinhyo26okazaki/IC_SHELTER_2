@@ -1,0 +1,62 @@
+SEVERITY: Error
+  GROUP: Interconnectivity : 24 Error(s)
+    drc-OUT-GROUND - [flatnet : GND, component: IC_Shelter_main\POWER_SUPPLAY\$1I305, pin: IN-] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC_Shelter_main\POWER_SUPPLAY\$1I305, pin: OUT-] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC_Shelter_main\Fub175\$1I38, pin: GND] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC_Shelter_main\CONTROL1237\$1I153, pin: VSS/VSSA] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC_Shelter_main\CONTROL1237\$1I153, pin: VSS2] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC_Shelter_main\CONTROL1237\$1I181, pin: GND] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC_Shelter_main\RS-485-LCD1236\$1I54, pin: GND] OUT pin connected to Ground pin
+    drc-OUT-GROUND - [flatnet : GND, component: IC_Shelter_main\RS-485-LCD1236\$1I51, pin: GND] OUT pin connected to Ground pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC_Shelter_main\POWER_SUPPLAY\$1I305, pin: IN+] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC_Shelter_main\Fub175\$1I38, pin: VCC] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC_Shelter_main\CONTROL1237\$1I153, pin: VDDA] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC_Shelter_main\CONTROL1237\$1I153, pin: VDD2] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC_Shelter_main\CONTROL1237\$1I153, pin: VDD] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : +5.0V, component: IC_Shelter_main\RS-485-LCD1236\$1I51, pin: VCC] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : GND, component: IC_Shelter_main\POWER_SUPPLAY\$1I73, pin: -Vo] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : GND, component: IC_Shelter_main\RS-485-LCD1236\$1I51, pin: GND] OUT pin connected to Power pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC_Shelter_main\POWER_SUPPLAY\$1I305, pin: IN-] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC_Shelter_main\POWER_SUPPLAY\$1I305, pin: OUT-] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC_Shelter_main\POWER_SUPPLAY\$1I73, pin: -Vo] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC_Shelter_main\Fub175\$1I38, pin: GND] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC_Shelter_main\CONTROL1237\$1I153, pin: VSS/VSSA] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC_Shelter_main\CONTROL1237\$1I153, pin: VSS2] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC_Shelter_main\CONTROL1237\$1I181, pin: GND] Power pin connected to Ground pin
+    drc-POWER-GROUND - [flatnet : GND, component: IC_Shelter_main\RS-485-LCD1236\$1I54, pin: GND] Power pin connected to Ground pin
+SEVERITY: Warning
+  GROUP: Connectivity : 32 Warning(s)
+    drc-123 - [flatnet : A-, net: A-] One pin net
+    drc-123 - [flatnet : A-, net: IC_Shelter_main\Fub175\A-] One pin net
+    drc-123 - [flatnet : A-, net: IC_Shelter_main\A-] One pin net
+    drc-123 - [flatnet : B+, net: B+] One pin net
+    drc-123 - [flatnet : B+, net: IC_Shelter_main\Fub175\B+] One pin net
+    drc-123 - [flatnet : B+, net: IC_Shelter_main\B+] One pin net
+    drc-123 - [flatnet : CON-A-_IC_Shelter_main/Fub175, net: IC_Shelter_main\Fub175\CON-A-] One pin net
+    drc-123 - [flatnet : CON-B+_IC_Shelter_main/Fub175, net: IC_Shelter_main\Fub175\CON-B+] One pin net
+    drc-123 - [flatnet : CON-IN1+_IC_Shelter_main/INPUTS1234, net: IC_Shelter_main\INPUTS1234\CON-IN1+] One pin net
+    drc-123 - [flatnet : CON-IN1-_IC_Shelter_main/INPUTS1234, net: IC_Shelter_main\INPUTS1234\CON-IN1-] One pin net
+    drc-123 - [flatnet : CON-IN2+_IC_Shelter_main/INPUTS1234, net: IC_Shelter_main\INPUTS1234\CON-IN2+] One pin net
+    drc-123 - [flatnet : CON-IN2-_IC_Shelter_main/INPUTS1234, net: IC_Shelter_main\INPUTS1234\CON-IN2-] One pin net
+    drc-123 - [flatnet : CON-IN3+_IC_Shelter_main/INPUTS1234, net: IC_Shelter_main\INPUTS1234\CON-IN3+] One pin net
+    drc-123 - [flatnet : CON-IN3-_IC_Shelter_main/INPUTS1234, net: IC_Shelter_main\INPUTS1234\CON-IN3-] One pin net
+    drc-123 - [flatnet : CON-IN4+_IC_Shelter_main/INPUTS1234, net: IC_Shelter_main\INPUTS1234\CON-IN4+] One pin net
+    drc-123 - [flatnet : CON-IN4-_IC_Shelter_main/INPUTS1234, net: IC_Shelter_main\INPUTS1234\CON-IN4-] One pin net
+    drc-123 - [flatnet : IN1+, net: IN1+] One pin net
+    drc-123 - [flatnet : IN1+, net: IC_Shelter_main\IN1+] One pin net
+    drc-123 - [flatnet : IN1-, net: IN1-] One pin net
+    drc-123 - [flatnet : IN1-, net: IC_Shelter_main\CON-IN1-] One pin net
+    drc-123 - [flatnet : IN2+, net: IN2+] One pin net
+    drc-123 - [flatnet : IN2+, net: IC_Shelter_main\IN2+] One pin net
+    drc-123 - [flatnet : IN2-, net: IN2-] One pin net
+    drc-123 - [flatnet : IN2-, net: IC_Shelter_main\IN2-] One pin net
+    drc-123 - [flatnet : IN3+, net: IN3+] One pin net
+    drc-123 - [flatnet : IN3+, net: IC_Shelter_main\IN3+] One pin net
+    drc-123 - [flatnet : IN3-, net: IN3-] One pin net
+    drc-123 - [flatnet : IN3-, net: IC_Shelter_main\IN3-] One pin net
+    drc-123 - [flatnet : IN4+, net: IN4+] One pin net
+    drc-123 - [flatnet : IN4+, net: IC_Shelter_main\IN4+] One pin net
+    drc-123 - [flatnet : IN4-, net: IN4-] One pin net
+    drc-123 - [flatnet : IN4-, net: IC_Shelter_main\IN4-] One pin net
+
+24 Error(s), 32 Warning(s), 0 Note(s), 
