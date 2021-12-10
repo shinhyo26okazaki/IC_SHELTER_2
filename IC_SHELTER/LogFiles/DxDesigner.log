@@ -1,0 +1,22 @@
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [82.5 kB] created successfully in location [C:\PADS Projects\DxProjects\IC_SHELTER\ProjectBackup\backups\2021-10-02 19.31.23 - auto.zip]
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [255.2 kB] created successfully in location [C:\PADS Projects\DxProjects\IC_SHELTER\ProjectBackup\backups\2021-10-11 18.12.44 - auto.zip]
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [396.2 kB] created successfully in location [C:\PADS Projects\DxProjects\IC_SHELTER\ProjectBackup\backups\2021-10-25 19.21.53 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
